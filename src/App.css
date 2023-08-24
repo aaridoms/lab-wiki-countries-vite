@@ -2,3 +2,14 @@
   margin: 0 auto;
   text-align: center;
 }
+
+li {
+  list-style: none;
+}
+
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
